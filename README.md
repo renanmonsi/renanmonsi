@@ -34,7 +34,7 @@ I work as a web developer with UI/UX design skills (front-end designer). I'm bas
 ### hobbies
 - 🎮 playing games on my PC
 - 🎲 playing board games
-- 🎸 playing guitar (jazz, blues, rock, brazilian and latin musics) 
+- 🎸 playing guitar (jazz, blues, rock, brazilian and latin music) 
 - 📚 reading history, fantasy, political and sociology books
 - 📺 watching movies from whole the world
 - ⚽ watching football matches almost every day
