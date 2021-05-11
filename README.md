@@ -70,7 +70,7 @@ I work as a web developer with UI/UX design skills (front-end designer). I'm bas
 
 <br>
 
-### my lasts project
+### my last project
 
 <a href="https://imgbb.com/">
     <img src="https://i.ibb.co/jJ2BK9b/32x32.png" width="25" align="left" />
