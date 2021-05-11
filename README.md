@@ -29,7 +29,7 @@ I work as a web developer with UI/UX design skills (front-end designer). I'm bas
 ### get in touch
 
 - ✉️ contact@renanmonteiro.com
-- 🔗 renanmonteiro.com
+- 🔗 [renanmonteiro.com](https://renanmonteiro.com)
 
 ### hobbies
 - 🎮 playing games on my PC
