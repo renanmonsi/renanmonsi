@@ -37,7 +37,7 @@ I work as a web developer with UI/UX design skills (front-end designer). I'm bas
 - 🎸 playing guitar (jazz, blues, rock, brazilian and latin musics) 
 - 📚 reading history, fantasy, political and sociology books
 - 📺 watching movies from whole the world
-- ⚽ watching football matches almos every day
+- ⚽ watching football matches almost every day
 - 🐶 playing with my dog [Belchior](https://i.ibb.co/sQL2L9W/IMG-20200506-182310518.jpg)
 - 🧑‍🍳 cooking brazilian food
 - 📷 photography
