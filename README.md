@@ -6,7 +6,7 @@ I work as a web developer with UI/UX design skills (front-end designer). I'm cur
 
 - 🏅 my mom's favorite developer
 - 🇧🇷 from São Paulo, Brazil
-- 🔭 I'm current working remotely to [Khalibre](https://khalibre.com), an amazing 🇸🇬 Singapore company 
+- 🔭 I'm current working to [Khalibre](https://khalibre.com), an amazing 🇸🇬 Singapore company 
 - 📚 I'm currently learning javascript testing tools
 - 🧙‍♂️ INFP-T: mediator
 
